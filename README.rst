@@ -26,6 +26,7 @@ Load your bank statements to Elasticsearch.
 
 Screenshots
 --------
+Viualizations powered by Kibana.
 
 .. image:: pictures/dashboard.png?raw=true
         :target: ictures/dashboard.png?raw=true
