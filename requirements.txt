@@ -1,0 +1,9 @@
+click
+glob
+configparser
+pprint
+hashlib
+csv
+elasticsearch
+dateutil
+logmatic-python
