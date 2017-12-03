@@ -22,7 +22,6 @@ Load your bank statements to Elasticsearch.
 
 
 * Free software: MIT license
-* Documentation: https://elastic-cashflows.readthedocs.io.
 
 Screenshots
 --------
