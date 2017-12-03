@@ -27,7 +27,7 @@ Load your bank statements to Elasticsearch.
 Screenshots
 --------
 
-.. image:: ictures/dashboard.png?raw=true
+.. image:: pictures/dashboard.png?raw=true
         :target: ictures/dashboard.png?raw=true
         :alt: Dashboard
 
