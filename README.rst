@@ -24,6 +24,14 @@ Load your bank statements to Elasticsearch.
 * Free software: MIT license
 * Documentation: https://elastic-cashflows.readthedocs.io.
 
+Screenshots
+--------
+![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/dashboard.png)
+![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/history.png)
+![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/cashflow_analysis.png)
+![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/anomaly.png)
+
+
 
 Features
 --------
