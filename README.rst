@@ -26,6 +26,11 @@ Load your bank statements to Elasticsearch.
 
 Screenshots
 --------
+
+.. image:: ictures/dashboard.png?raw=true
+        :target: ictures/dashboard.png?raw=true
+        :alt: Dashboard
+
 ![alt text](pictures/dashboard.png?raw=true "Dashboard")
 ![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/history.png?raw=true "Transaction History")
 ![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/cashflow_analysis.png?raw=true "Cashflow Analysis")
