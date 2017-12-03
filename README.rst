@@ -30,12 +30,15 @@ Screenshots
 .. image:: pictures/dashboard.png?raw=true
         :target: ictures/dashboard.png?raw=true
         :alt: Dashboard
-
-![alt text](pictures/dashboard.png?raw=true "Dashboard")
-![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/history.png?raw=true "Transaction History")
-![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/cashflow_analysis.png?raw=true "Cashflow Analysis")
-![alt text](https://github.com/P6rguVyrst/elastic-cashflows/blob/master/pictures/anomaly.png?raw=true "Anomalies")
-
+.. image:: pictures/history.png?raw=true
+        :target: pictures/history.png?raw=true
+        :alt: Transaction History
+.. image:: pictures/cashflow_analysis.png?raw=true
+        :target: pictures/cashflow_analysis.png?raw=true
+        :alt: Cashflow Analysis
+.. image:: pictures/anomaly.png?raw=true
+        :target: pictures/anomaly.png?raw=true
+        :alt: Anomalies
 
 
 Features
